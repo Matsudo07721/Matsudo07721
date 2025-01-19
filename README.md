@@ -1,7 +1,7 @@
-## Olá! Sou o Matsudo07721.
+## Olá! Sou o Matsudo.
 
 
-- 📘 Estudo sobre Front-End
+- 📘 Developer Front-End
 - 💼 Profissional em TypeScript
 - 🌙 Estudando sobre a area de programação Lua.
 - ✉️ Me chame no email: valentim.almeida2p@gmail.com 
