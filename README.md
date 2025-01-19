@@ -25,11 +25,11 @@
             a
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="[https://github.com/Matsudo07721/Matsudo07721?tab=readme-ov-file">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Matsudo07721?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
